@@ -42,7 +42,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
 Login:
-</br>
+<br/>
 ![image](https://github.com/basicem/pinway/assets/96090279/ecb7b040-0350-4325-8082-8e60486c2b81)
 
 
@@ -89,7 +89,7 @@ Notifications:
   <li>Rabbit MQ</li>
 </ul>
 
-<h2>You can watch a demo of project functionalities. The video shows all the features on the frontend and some backend features. </h2>
+<p>You can watch a demo of project functionalities. The video shows all the features on the frontend and some backend features. </p>
 <a href="https://drive.google.com/drive/folders/1t7OWhooPADj_RKHJZPIJSlFm8AI9LR4_?usp=sharing">Link </a> to the video
 </br>
 </br>
