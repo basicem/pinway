@@ -25,15 +25,47 @@ After all the microservices are started, in the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+
+Login:
+![image](https://github.com/basicem/pinway/assets/96090279/ecb7b040-0350-4325-8082-8e60486c2b81)
+
+
+Home Page:
+![image](https://github.com/basicem/pinway/assets/96090279/a4b1a9d2-0fb7-4573-9cdd-1035b0077738)
+
+Profile:
+![image](https://github.com/basicem/pinway/assets/96090279/a4de86a1-b94e-4f04-bed6-b6ce1d679df7)
+
+![image](https://github.com/basicem/pinway/assets/96090279/03528569-1fa1-4346-9d2c-6ff86b09964c)
+
+![image](https://github.com/basicem/pinway/assets/96090279/103fc4d9-5ba4-4e70-8d10-ddcfd3688fe7)
+
+
+
+Collection Add:
+![image](https://github.com/basicem/pinway/assets/96090279/e293d450-a040-42a6-ab5f-b1c153bb328f)
+
+Collection Share:
+![image](https://github.com/basicem/pinway/assets/96090279/0e78a185-bc85-4412-a352-0bc619abbee1)
+
+
+Post:
+![image](https://github.com/basicem/pinway/assets/96090279/1b864a09-1144-4437-9d86-28b2835cbf9a)
+
+![image](https://github.com/basicem/pinway/assets/96090279/e4853db0-2ff2-4b44-aa27-e5265753a29e)
+
+Notifications:
+
+![image](https://github.com/basicem/pinway/assets/96090279/947218c4-4398-4083-b8ed-8945b5a315d8)
+
 <h2> Technological stack: </h2>
 
 <ul>
-  <li>Spring Boota</li>
+  <li>Spring Boot</li>
   <li>MySQL</li>
   <li>React</li>
   <li>Rabbit MQ</li>
 </ul>
-
 
 <h2>Links </h2>
 <a href="https://drive.google.com/drive/folders/1t7OWhooPADj_RKHJZPIJSlFm8AI9LR4_?usp=sharing">Link </a> to the video
