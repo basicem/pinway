@@ -19,11 +19,13 @@ The application is intended to help users find inspiration and ideas for their p
 <h2> Backend (Microservices): </h2>
 
 The project consists of following four main microservices:
-</br>
-UserService: This service is related to user management
-PostService: This service is related to post management
-CollectionService: This service is related to the management of post collections
-NotificationService: This service is related to the management of notifications (like comments, pin posts, post comments, follow from another user)
+<br/>
+<ul>
+  <li>UserService: This service is related to user management</li>
+  <li>PostService: This service is related to post management</li>
+  <li>CollectionService: This service is related to the management of post collections</li>
+  <li>NotificationService: This service is related to the management of notifications (like comments, pin posts, post comments, follow from another user)</li>
+</ul>
 
 ![image](https://github.com/basicem/pinway/assets/96090279/0a2e0227-6882-4bed-bec2-c1b4c51fe884)
 
