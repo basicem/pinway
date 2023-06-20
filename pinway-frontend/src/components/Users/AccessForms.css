@@ -1,0 +1,237 @@
+.h2-style {
+  font-size: 80px;
+  color: #ff6127;
+  margin-left: 5%;
+  font-family: 'Brush Script MT';
+  font-weight: 500;
+  margin-top: 10px;
+}
+
+h3 {
+  color: white;
+  margin: 0px auto;
+  font-size: 20px;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
+.button-login {
+  position: relative;
+  letter-spacing: 1px;
+  font-size: 18px;
+  padding: 10px;
+  text-align: center;
+  border-radius: 10px;
+  cursor: pointer;
+  border-radius: 25px;
+  margin-left: 20%;
+  width: 60%;
+  margin-right: 20%;
+  height: 50px;
+  color: white;
+  margin-top: 5%;
+  border: none;
+  background: #74448c;
+}
+
+.button-login:hover {
+  color: #d7a8f5;
+  box-shadow: 0px 0px 20px 0px rgb(246, 248, 249);
+}
+
+.button-login:focus {
+  outline: none;
+}
+
+.form-container {
+  margin: 0px auto;
+  width: 500px;
+  box-shadow: 0 5px 8px 0 rgba(215,168,245,255), 0 7px 20px 0 rgba(215,168,245,255);
+  position: relative;
+  border-radius: 50px;
+  height: 450px;
+  display: grid;
+  grid-template-rows: 1fr;
+  margin-top: 0%;
+  margin-bottom: 0px;
+
+}
+
+
+
+.form-container-register {
+  margin: 0px auto;
+  width: 500px;
+  box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 7px 20px 0 rgba(0, 0, 0, 0.2);
+  height: 300px;
+  position: relative;
+  display: grid;
+  grid-template-columns: 1fr;
+  margin-bottom: 0%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+  margin-top: 2%;
+
+}
+
+.form-container-login {
+    margin: 0px auto;
+    width: 550px;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 7px 20px 0 rgba(0, 0, 0, 0.2);
+    height: 300px;
+    position: relative;
+    display: grid;
+    grid-template-columns: 1fr;
+    margin-bottom: 0%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+    margin-top: 5%;
+}
+
+
+.form {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 90%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.form-inputs {
+  margin-bottom: 0.5rem;
+  width: 100%;
+}
+
+.form-inputs p {
+  font-size: 0.8rem;
+  margin-top: 0.5rem;
+  color: #f00e0e;
+}
+
+.form-label {
+  display: inline-block;
+  font-size: 1.0rem;
+  margin-bottom: 6px;
+  color: white;
+}
+
+.form-inputs::placeholder {
+  color: #595959;
+  font-size: 12px;
+}
+
+.form-input-btn {
+  width: 100%;
+  height: 50px;
+  margin-top: 10px;
+  border-radius: 10px;
+  background: linear-gradient(90deg,
+      hwb(18 5% 4%) 0%,
+      hwb(23 20% 4%) 100%);
+  outline: none;
+  border: none;
+  color: #fff;
+  font-size: 1rem;
+}
+
+.form-content-left {
+  background: linear-gradient(90deg,
+      #d7a8f5 100%,
+      #74448c 0%);
+  border-radius: 0px 0px 0px 0px;
+  position: relative;
+  padding-left:10px;
+}
+
+.form-img {
+  width: 80%;
+  height: 80%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.form-labelr {
+  font-size: 0.8rem;
+  color: white;
+  margin-right: 50px;
+}
+
+.form {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 90%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.form-inputs {
+  margin-bottom: 0.5rem;
+  width: 100%;
+}
+
+.form-inputs p {
+  font-size: 0.8rem;
+  margin-top: 0.5rem;
+  color: #f00e0e;
+}
+
+.form-label {
+  display: inline-block;
+  font-size: 1.0rem;
+  margin-bottom: 6px;
+  color: white;
+}
+
+.form-input {
+  display: block;
+  outline: none;
+  height: 35px;
+  padding-left: 10px;
+  width: 98%;
+  border: none;
+}
+
+.form-input::placeholder {
+  color: #595959;
+  font-size: 12px;
+}
+
+.form-input-login {
+  font-size: 0.8rem;
+  margin-top: 10px;
+  color: #fff;
+  width: 100%;
+  text-align: center;
+  margin-bottom: 35px;
+}
+
+.i-login {
+  margin-top: 20px;
+  font-size: 45px;
+  color: white;
+  margin-left: 45%;
+}
+.image {
+  width: 450px;
+  height: 100px;
+  position:relative;
+}
+
+.image-contain {
+  object-fit: contain;
+  object-position: center;
+}

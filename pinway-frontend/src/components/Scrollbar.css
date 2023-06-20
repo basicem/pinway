@@ -1,0 +1,50 @@
+.container-fluid.custom-scrollbar {
+    height: 60px;
+    overflow-y: auto;
+  }
+  
+  .container-fluid.custom-scrollbar::-webkit-scrollbar {
+    height: 7px;
+    background-color: transparent;
+  }
+  
+  .container-fluid.custom-scrollbar::-webkit-scrollbar-thumb {
+    background-color: rgba(0, 0, 0, 0.00);
+    transition: background-color 1s;
+  }
+  
+  .container-fluid.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+    background-color: rgba(195,186,205,255);
+    transition: background-color 0.5s;
+  }
+  
+  .container-fluid.custom-scrollbar::-webkit-scrollbar-track {
+    background-color: transparent;
+  }
+  
+  .container-fluid.custom-scrollbar::-webkit-scrollbar-track:hover {
+    background-color: rgba(255, 255, 255, 0.0);
+    transition: background-color 0.5s;
+  }
+  
+  .container-fluid.custom-scrollbar:hover::-webkit-scrollbar-thumb {
+    background-color: rgba(195,186,205,255);
+    transition: background-color 0.5s;
+  }
+  
+  .container-fluid.custom-scrollbar:hover::-webkit-scrollbar-track {
+    background-color: rgba(255, 255, 255, 0.0);
+    transition: background-color 0.5s;
+  }
+  
+  .container-fluid.custom-scrollbar::-webkit-scrollbar-thumb:vertical {
+    border-radius: 1px;
+  }
+  
+  .container-fluid.custom-scrollbar::-webkit-scrollbar-thumb:horizontal {
+    border-radius: 1px;
+  }
+  
+  .container-fluid.custom-scrollbar:hover {
+    overflow-y: scroll;
+  }
